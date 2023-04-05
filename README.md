@@ -1,8 +1,3 @@
-<!--
-**kudesn1k1/kudesn1k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on different commercial projects and my own ideas<br>🌱 I’m currently learning HTML, CSS, JS, Webpack, PHP, MySQL and many-many other technologies<br>💬 Ask me about my work and life<br>⚡ Dream of travelling around the world
 
@@ -27,4 +22,3 @@ Here are some ideas to get you started:
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
